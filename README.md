@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **DhruvRamgire/DhruvRamgire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> I'm currently learning how to program using languages like Python and R. I am a Biotechnologist with deep interests in Bioinformatics and Computational Biology. Some concepts I have learned through my projects are data mining, protein network construction, gene ontology, and expression analysis. I'm currently working on creating a webpage for a genetic database for Parkinson's Disease patients in India.
